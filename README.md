@@ -1,6 +1,6 @@
 ## Welcome to inigo101's GitHub Page
 
-# HOW TO MAKE AN ICED COFFEE (Easy steps)
+# HOW TO MAKE ICED COFFEE (Easy steps)
 
 ![74eeb948579958a2fab3c6686b27de5c](https://user-images.githubusercontent.com/95487911/155266059-78c3d8e3-024a-410b-b5a9-228c629fdf4d.gif)
 
