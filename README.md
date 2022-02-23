@@ -23,11 +23,11 @@
 
 ![1hpx](https://user-images.githubusercontent.com/95487911/155267020-b792bdc7-ac72-46c8-842c-3b67d3ae2b99.gif)
 
-**STEP 4-add milk until it fills the glass and stir for the last time
+**STEP 4-add milk until it fills the glass and stir for the last time**
 
 ![G3Iy](https://user-images.githubusercontent.com/95487911/155267577-d17de9e4-84f0-492e-869d-30b8a1876194.gif)
 
-**STEP 5-add ice 
+**STEP 5-add ice**
 
 ![adding-ice-food52](https://user-images.githubusercontent.com/95487911/155267821-0074beea-24d6-48f7-aaa1-4f5ab45eefa7.gif)
 
