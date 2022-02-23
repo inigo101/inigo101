@@ -27,6 +27,8 @@
 
 ![G3Iy](https://user-images.githubusercontent.com/95487911/155267577-d17de9e4-84f0-492e-869d-30b8a1876194.gif)
 
+![giphy](https://user-images.githubusercontent.com/95487911/155269494-2551f846-99eb-4c89-8739-0810b05f18be.gif)
+
 **STEP 5-add ice**
 
 ![adding-ice-food52](https://user-images.githubusercontent.com/95487911/155267821-0074beea-24d6-48f7-aaa1-4f5ab45eefa7.gif)
