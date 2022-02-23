@@ -1,7 +1,7 @@
 ## Welcome to inigo101's GitHub Page
 
 # HOW TO MAKE AN ICED COFFEE (Easy steps for beginners)
-https://www.google.com/search?q=coffee+granules&tbm=isch&source=iu&ictx=1&vet=1&fir=Vhs4eQrx2k2_3M%252CHqszYBjpoEmUaM%252C_%253BJF_r-2cT2-JyVM%252Co-Nji9Uf5tzyqM%252C_%253BYpLqpm0BCZDtpM%252CvQSQlWbiA8JJsM%252C_&usg=AI4_-kTXy-kXL5I-K-8bu6-JFepy7yC0sw&sa=X&sqi=2&ved=2ahUKEwicrMb5g5X2AhUXIbkGHYT1BQUQ_h16BAgFEAE#imgrc=Vhs4eQrx2k2_3M
+![coffee granules](https://user-images.githubusercontent.com/95487911/155263976-bb826ce1-5d00-4bcc-8d04-1882939b4ffb.jpg)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
