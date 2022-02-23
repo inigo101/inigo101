@@ -12,7 +12,7 @@
 
 ![pouring-hot-water](https://user-images.githubusercontent.com/95487911/155266668-e9bbb45b-7988-42d6-bb5b-64c92d0233ad.gif)
 
-**STEP 2-Stir the three ingredients until it dissolves**
+**STEP 2-Stir the three ingredients until they dissolve**
 
 ![1hpx](https://user-images.githubusercontent.com/95487911/155267020-b792bdc7-ac72-46c8-842c-3b67d3ae2b99.gif)
 
