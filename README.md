@@ -1,4 +1,4 @@
-## Welcome to inigo101's GitHub Page
+## Welcome to inigo101 GitHub Page
 
 # HOW TO MAKE ICED COFFEE IN 5 EASY STEPS
 
