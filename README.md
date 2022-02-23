@@ -1,39 +1,36 @@
 ## Welcome to inigo101's GitHub Page
 
-# HOW TO MAKE AN ICED COFFEE (Easy steps for beginners)
-![coffee granules](https://user-images.githubusercontent.com/95487911/155263976-bb826ce1-5d00-4bcc-8d04-1882939b4ffb.jpg)
+# HOW TO MAKE AN ICED COFFEE (Easy steps)
+
+![74eeb948579958a2fab3c6686b27de5c](https://user-images.githubusercontent.com/95487911/155266059-78c3d8e3-024a-410b-b5a9-228c629fdf4d.gif)
+
+**STEP 1-add coffee granules, sugar, and add warm water**
+
+![coffee-beans-national-geographic](https://user-images.githubusercontent.com/95487911/155266454-58bb4b88-c372-492e-8048-34ac7444cd86.gif)
+
+![sugar-animation-thumbnail](https://user-images.githubusercontent.com/95487911/155266600-f007b767-60c0-41af-b5ee-de3d8232472d.gif)
+
+![pouring-hot-water](https://user-images.githubusercontent.com/95487911/155266668-e9bbb45b-7988-42d6-bb5b-64c92d0233ad.gif)
+
+**STEP 2-Stir the three ingredients until it dissolves**
+
+![1hpx](https://user-images.githubusercontent.com/95487911/155267020-b792bdc7-ac72-46c8-842c-3b67d3ae2b99.gif)
+
+**STEP 3-add chilled water and stir for the second time**
+
+![200w](https://user-images.githubusercontent.com/95487911/155267310-735264a2-0476-4dfd-b802-5cd95b6c9b9e.gif)
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![1hpx](https://user-images.githubusercontent.com/95487911/155267020-b792bdc7-ac72-46c8-842c-3b67d3ae2b99.gif)
 
-### Markdown
+**STEP 4-add milk until it fills the glass and stir for the last time
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![G3Iy](https://user-images.githubusercontent.com/95487911/155267577-d17de9e4-84f0-492e-869d-30b8a1876194.gif)
 
-```markdown
-Syntax highlighted code block
+**STEP 5-add ice 
 
-# Header 1
-## Header 2
-### Header 3
+![adding-ice-food52](https://user-images.githubusercontent.com/95487911/155267821-0074beea-24d6-48f7-aaa1-4f5ab45eefa7.gif)
 
-- Bulleted
-- List
+**AND VOILA! DRINK AND ENJOY YOUR REFRESHING ICED COFFEE**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inigo101/inigo101/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![tumblr_d613ffc6761ccd6b3508f7fca9ad106c_6416fb00_250](https://user-images.githubusercontent.com/95487911/155268230-95c080da-7918-4446-9d27-eebe4baf4f7e.gif)
